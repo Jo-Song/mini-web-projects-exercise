@@ -1,2 +1,4 @@
 # mini-web-projects-exercise
-前端HTML CSS练手小项目
+
+- 第一部分: [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) 模仿练习
+  - form-validator
